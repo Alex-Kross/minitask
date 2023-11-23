@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class DescendingOrder {
     public static void main(String[] args) {
         int i = sortDesc(42145);
         int j = sortDesc(145263);
